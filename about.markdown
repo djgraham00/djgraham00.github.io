@@ -17,5 +17,5 @@ Email: [d2@drewjgraham.com](mailto:d2@drewjgraham.com)
 Socials: [LinkedIn](https://www.linkedin.com/in/drew-graham-a84169157/)
 
 ##### Files
-[Resume](https://www.drewjgraham.com/static/pdf/GRAHAMDREWJ_RESUME.pdf)
+[Resume](https://www.drewjgraham.com/uploads/pdf/GRAHAMDREWJ_RESUME.pdf)
 
