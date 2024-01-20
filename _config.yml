@@ -23,7 +23,7 @@ email: d@drewjgraham.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog! I'm planning on writing some guides on service-provider networking and some in-depth analysis on
   getting started with building MPLS deployments.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.drewjgraham.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drewjgraham
 github_username:  djgraham00
