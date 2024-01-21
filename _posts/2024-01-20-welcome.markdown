@@ -1,0 +1,8 @@
+---
+title: Welcome to my site!
+date: 2024-01-20 18:27:00 -0600
+categories: [General]
+tags: [general]     # TAG names should always be lowercase
+---
+
+Welcome to my new and improved website! I hope to write some posts on here on my projects and guides for networking conecepts. For the time being, there isn't much yet but I hope to have more added soon. Contact info is availiable for me on the about page and I'd be happy to answer any questions regarding comptuer networking topics! 
