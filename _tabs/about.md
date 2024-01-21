@@ -22,7 +22,7 @@ order: 4
  - Network Support Engineer @ Oklahoma State Regents for Higher Education / OneNet - Oklahoma City, OK
     - Feburary 2023 - October 2023   
 
-- Network Technician @ Oklahoma Office of Management and Enterprise Services (OMES) - Oklahoma City, OK
+- Network Technician @ Oklahoma Office of Management and Enterprise Services - Oklahoma City, OK
     - August 2022 - Feburary 2023
 
 - Technology Director @ Perkins-Tryon Public Schools - Perkins, OK
