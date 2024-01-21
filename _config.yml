@@ -29,8 +29,8 @@ twitter_username: drewjgraham
 github_username:  djgraham00
 
 # Build settings
-#theme: minima
-remote_theme: jekyll-theme-chirpy 
+theme: jekyll-theme-chirpy
+remote_theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 
