@@ -4,5 +4,17 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+##### Education
+- Network Engineering and Security Major @ Western Govenors University (Expected Grauation: 10/25)
+
+##### Work Experience
+- Network Engineer @ Oklahoma State Regents for Higher Education / OneNet
+- Former Network Technician @ Oklahoma Office of Management and Enterprise Services (OMES)
+- Former Technology Director @ Perkins-Tryon Public Schools
+
+##### Contact Info
+Email: [d2@drewjgraham.com](mailto:d2@drewjgraham.com)
+Socials: [LinkedIn](https://www.linkedin.com/in/drew-graham-a84169157/)
+
+##### Files
+[Resume](https://www.drewjgraham.com/uploads/pdf/GRAHAMDREWJ_RESUME.pdf)

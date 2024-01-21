@@ -16,12 +16,12 @@ timezone: America/Chicago
 
 title: Drew J Graham # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: R&E SP Network Engineer
 
 description: >- # used by seo meta and the atom feed
   Welcome to my site! I'm planning on writing some guides on service-provider networking and some in-depth analysis on
   getting started with building MPLS deployments.
-  
+
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://www.drewjgraham.com"
